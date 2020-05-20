@@ -1,0 +1,7 @@
+C:\Users\Avatar\Desktop\Aulas\Exercicios string\escada\bin\Debug\escada.exe.config
+C:\Users\Avatar\Desktop\Aulas\Exercicios string\escada\bin\Debug\escada.exe
+C:\Users\Avatar\Desktop\Aulas\Exercicios string\escada\bin\Debug\escada.pdb
+C:\Users\Avatar\Desktop\Aulas\Exercicios string\escada\obj\Debug\escada.csprojAssemblyReference.cache
+C:\Users\Avatar\Desktop\Aulas\Exercicios string\escada\obj\Debug\escada.csproj.CoreCompileInputs.cache
+C:\Users\Avatar\Desktop\Aulas\Exercicios string\escada\obj\Debug\escada.exe
+C:\Users\Avatar\Desktop\Aulas\Exercicios string\escada\obj\Debug\escada.pdb
